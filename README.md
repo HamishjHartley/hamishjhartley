@@ -1,16 +1,21 @@
-### Hi there 👋
+*Hi I'm Hamish, I'm a 23 years old Robotics, Autonomous and Interactive Systems graduate*
+--------------------------------------------------------------------------------------------
+### I’m currently working on: 
+>A traceroute tool with support for concurrency and memory safety in Go. 
 
-<!--
-**HamishjHartley/hamishjhartley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>Chess game in python
 
-Here are some ideas to get you started:
+>Calorie tracker app using Jetpack Compose in Kotlin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>Custom ensenble optimiation algorithm combining genetic algorithmns and neural network.
+
+
+>I’m looking to collaborate on: Anything network security/AI related.
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamishjhartley&show_icons=true&theme=dark&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamishjhartley&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=My%20Stats) -->
