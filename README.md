@@ -1,11 +1,11 @@
 *Hi I'm Hamish, I'm a 23 years old Robotics, Autonomous and Interactive Systems graduate*
 --------------------------------------------------------------------------------------------
 ### I’m currently working on: 
+>Calorie tracker app using Jetpack Compose in Kotlin.
+
 >A traceroute tool with support for concurrency and memory safety in Go. 
 
 >Chess game in python
-
->Calorie tracker app using Jetpack Compose in Kotlin.
 
 >Custom ensenble optimiation algorithm combining genetic algorithmns and neural network.
 
