@@ -10,7 +10,8 @@
 >Custom ensenble optimiation algorithm combining genetic algorithmns and neural network.
 
 
->I’m looking to collaborate on: Anything network security/AI related.
+### I’m looking to collaborate on: 
+>Anything network security/AI related.
 
 <div align="center">
 
