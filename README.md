@@ -1,6 +1,7 @@
 *Hi I'm Hamish, I'm a 24 years old Junior Java Developer*
 --------------------------------------------------------------------------------------------
 BEng. Robotics, Autonomous and Interactive Systems First Class graduate
+
 Currently enrolled in MSc. Advanced Computer Science 
 
 ### I’m currently working on: 
