@@ -1,17 +1,13 @@
 *Hi I'm Hamish, I'm a 23 years old Robotics, Autonomous and Interactive Systems graduate*
 --------------------------------------------------------------------------------------------
 ### I’m currently working on: 
->A health and wellbeing app using Jetpack Compose in Kotlin.
 
->A traceroute tool with support for concurrency and memory safety in Go. 
+>Creating a virtual Network testing lab, with custom generated topologies utilisng Erdos-Renyi and Barabasi-Albert models
 
->Chess game in python
-
->Custom ensenble optimiation algorithm combining genetic algorithmns and neural network.
-
+>Custom shopping list assistant, based on personal shopping database from last 6+ months. Plan to link with webscraper to find best prices for shopping.
 
 ### I’m looking to collaborate on: 
->Anything network security/AI related.
+>Anything networking/AI/Optimisation related
 
 <div align="center">
 
