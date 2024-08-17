@@ -1,5 +1,8 @@
-*Hi I'm Hamish, I'm a 23 years old Robotics, Autonomous and Interactive Systems graduate*
+*Hi I'm Hamish, I'm a 24 years old Junior Java Developer @ ComputerShare*
 --------------------------------------------------------------------------------------------
+## BEng. Robotics, Autonomous and Interactive Systems First Class graduate
+## Currently enrolled in MSc. Advanced Computer Science 
+
 ### I’m currently working on: 
 
 >Creating a virtual Network testing lab, with custom generated topologies utilisng Erdos-Renyi and Barabasi-Albert models
