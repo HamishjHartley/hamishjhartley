@@ -15,8 +15,7 @@ Currently enrolled in MSc. Advanced Computer Science
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamishjhartley&show_icons=true&theme=dark&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=HamishjHartley)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamishjhartley&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=My%20Stats) -->
